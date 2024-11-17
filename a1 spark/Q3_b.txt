@@ -1,0 +1,12 @@
+X	Y	Confidence
+C3M_Cancel public events	C8EV_International travel controls	1.0
+C3M_Cancel public events	H1_Public information campaigns	1.0
+C3M_Cancel public events	H2_Testing policy	1.0
+C3M_Cancel public events	H8M_Protection of elderly people	1.0
+C5M_Close public transport	C8EV_International travel controls	1.0
+Y	X	Confidence
+C1M_School closing	C8EV_International travel controls	1.0
+C1M_School closing	H1_Public information campaigns	1.0
+C1M_School closing	H2_Testing policy	1.0
+C1M_School closing	H3_Contact tracing	1.0
+C1M_School closing	H8M_Protection of elderly people	1.0

@@ -1,0 +1,18 @@
+X	Y	Z	Confidence
+C3M_Cancel public events	C6M_Stay at home requirements	C8EV_International travel controls	1.0
+C3M_Cancel public events	C6M_Stay at home requirements	H8M_Protection of elderly people	1.0
+C3M_Cancel public events	E1_Income support	C8EV_International travel controls	1.0
+C3M_Cancel public events	E1_Income support	H8M_Protection of elderly people	1.0
+C3M_Cancel public events	E2_Debt/contract relief	C8EV_International travel controls	1.0
+X	Z	Y	Confidence
+C1M_School closing	C7M_Restrictions on internal movement	H1_Public information campaigns	1.0
+C1M_School closing	C7M_Restrictions on internal movement	H2_Testing policy	1.0
+C1M_School closing	C7M_Restrictions on internal movement	H8M_Protection of elderly people	1.0
+C1M_School closing	C8EV_International travel controls	H8M_Protection of elderly people	1.0
+C3M_Cancel public events	C1M_School closing	C8EV_International travel controls	1.0
+Y	Z	X	Confidence
+C1M_School closing	C2M_Workplace closing	C8EV_International travel controls	1.0
+C1M_School closing	C2M_Workplace closing	H1_Public information campaigns	1.0
+C1M_School closing	C2M_Workplace closing	H2_Testing policy	1.0
+C1M_School closing	C2M_Workplace closing	H3_Contact tracing	1.0
+C1M_School closing	C2M_Workplace closing	H8M_Protection of elderly people	1.0
